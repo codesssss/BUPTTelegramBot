@@ -1,0 +1,6 @@
+
+requests==2.22.0
+telepot==12.7
+python-telegram-bot==12.4.2
+beautifulsoup4==4.8.2
+schedule==0.6.0
